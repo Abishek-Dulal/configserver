@@ -11,6 +11,7 @@ spring:
             search-locations: classpath:\config
         bootstrap: true
 
+
 management:
   health:
     defaults:
